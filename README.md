@@ -1,5 +1,4 @@
 ### Hi there 👋
-# 💫 About Me:
 CKGROUP
 
 
