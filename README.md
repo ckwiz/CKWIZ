@@ -1,5 +1,5 @@
 ### Hi there 👋
-# CKGROUP
+# CKWIZ
 
 
 # 💻 Tech Stack:
